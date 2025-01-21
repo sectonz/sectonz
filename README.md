@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">💻 Computer Science 2/9<br>🔎 Reverse Engineering and Malware Analysis<br>🔅 восхвалять солнце</p>
+<p align="left">💻 Computer Science 4/9<br>🔎 Reverse Engineering and Malware Analysis<br>🔅 восхвалять солнце</p>
 
 ###
 
