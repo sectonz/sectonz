@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="165" src="https://i.pinimg.com/originals/75/ba/fd/75bafdf10a015d5ad4ed02e6fad75131.gif"  />
+  <img height="265" src="https://i.pinimg.com/originals/75/ba/fd/75bafdf10a015d5ad4ed02e6fad75131.gif"  />
 </div>
 
 ###
 
-<p align="left">💻 Computer Science 6/9<br>🔎 Reverse Engineering and Malware Analysis<br>🔅 восхвалять солнце</p>
+<p align="left">💻 Computer Science 6/9<br>🔎 Cybersecurity & High Performance Computing<br></p>
 
 ###
 
