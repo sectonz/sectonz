@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">💻 Computer Science 7/9<br>🔎 Cybersecurity & High Performance Computing<br></p>
+<p align="left">💻 Computer Science 7/9<br>🔎 Large-Scale Distributed Systems & High Performance Computing<br></p>
 
 ###
 
